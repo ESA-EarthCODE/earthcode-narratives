@@ -1,0 +1,42 @@
+[
+  {
+    "cover-image": "https://placehold.co/600x400/png",
+    "date": "2025-01-01",
+    "theme": [
+      "theme_name"
+    ],
+    "tags": [
+      "some",
+      "tags"
+    ],
+    "official": true,
+    "collections": [
+      "collectionIdentifier1",
+      " collectionIdentifier2"
+    ],
+    "title": "Demo",
+    "subtitle": "Hero Subtitle",
+    "image": "assets/previews/png_1c51fd7f-f962-4534-b78b-4529ba37c080_preview.png",
+    "provider": "agency",
+    "file": "https://ESA-EarthCODE.github.io/earthcode-narratives/pr-preview/pr-2/demo.md"
+  },
+  {
+    "cover-image": "https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/stories/antarctic_sea_ice_lows/theme-image.jpg",
+    "date": "2026-01-01",
+    "theme": [
+      "antarctica"
+    ],
+    "tags": [
+      "ice"
+    ],
+    "official": true,
+    "collections": [
+      "collection1"
+    ],
+    "title": "Example story",
+    "subtitle": "Unprecedented Antarctic Sea Ice Decline in 2023: Record Lows and Historic Anomalies",
+    "image": "assets/previews/theme-image_d2190b00-a2c3-416a-9561-508f87a4812a_preview.png",
+    "provider": "agency",
+    "file": "https://ESA-EarthCODE.github.io/earthcode-narratives/pr-preview/pr-2/Example_story.md"
+  }
+]
