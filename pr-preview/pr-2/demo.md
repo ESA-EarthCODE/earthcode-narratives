@@ -14,3 +14,17 @@ collections: collectionIdentifier1, collectionIdentifier2
 ## First section
 
 Some text for the first section
+
+## Second section
+
+Some text for the second section
+
+## Map Tour Example <!--{ as="eox-map" mode="tour" }-->
+
+### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[15,48] zoom="5" animationOptions="{duration:500}" }-->
+#### Tour Title
+Some description for tour 1
+
+### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[15,52] zoom="6" animationOptions="{duration:500}" }-->
+#### Tour Title
+Some description for tour 1
