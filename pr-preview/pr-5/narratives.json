@@ -1,0 +1,42 @@
+[
+  {
+    "cover-image": "https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/stories/antarctic_sea_ice_lows/theme-image.jpg",
+    "date": "2026-01-01",
+    "theme": [
+      "antarctica"
+    ],
+    "tags": [
+      "ice"
+    ],
+    "official": true,
+    "collections": [
+      "collection1"
+    ],
+    "title": "Example story",
+    "subtitle": "Unprecedented Antarctic Sea Ice Decline in 2023: Record Lows and Historic Anomalies",
+    "image": "assets/previews/theme-image_2c708ab4-0312-4536-9e53-e8852123d922_preview.png",
+    "provider": "agency",
+    "file": "https://ESA-EarthCODE.github.io/earthcode-narratives/pr-preview/pr-5/Example_story.md"
+  },
+  {
+    "cover-image": "https://placehold.co/600x400/png",
+    "date": "2025-01-01",
+    "theme": [
+      "theme_name"
+    ],
+    "tags": [
+      "some",
+      "tags"
+    ],
+    "official": true,
+    "collections": [
+      "collectionIdentifier1",
+      " collectionIdentifier2"
+    ],
+    "title": "Air polution",
+    "subtitle": "Hero Subtitle",
+    "image": "assets/previews/png_43c92123-427d-42d9-b4b0-a83f94c5d2f7_preview.png",
+    "provider": "agency",
+    "file": "https://ESA-EarthCODE.github.io/earthcode-narratives/pr-preview/pr-5/test2.md"
+  }
+]
