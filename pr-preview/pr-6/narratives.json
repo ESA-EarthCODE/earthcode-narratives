@@ -1,17 +1,7 @@
 [
   {
-    "cover-image": "https://placehold.co/600x400/png",
-    "date": "2025-01-01",
-    "theme": [
-      "theme_name"
-    ],
-    "tags": [
-      "some",
-      "tags"
-    ],
-    "official": false,
-    "title": "Title of the story",
-    "image": "assets/previews/png_a299060c-1248-4c47-b026-2ce232960414_preview.png",
+    "title": "My bad",
+    "image": "assets/previews/png_37b5bca4-138f-47d3-9946-0e65e2234d70_preview.png",
     "provider": "community",
     "file": "https://ESA-EarthCODE.github.io/earthcode-narratives/pr-preview/pr-6/test.md"
   }
