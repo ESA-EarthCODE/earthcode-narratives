@@ -1,4 +1,4 @@
-# Title of the story <!--{ as="img" mode="hero" src="https://placehold.co/600x400/png" }-->
+# Antarctic Wildlife Protected Areas <!--{ as="img" mode="hero" src="https://loremflickr.com/1920/1080/antarctic,wildlife,penguin,seal" }-->
 #### 
 
 ## Authors: Name Surname¹
@@ -12,12 +12,6 @@
   <img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_250,h_250/https://markleisherproductions.com/wp-content/uploads/2021/01/logo-placeholder-png-2.png" alt="NOC" height="80" style="margin: 0 15px;"/>
   <img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_250,h_250/https://markleisherproductions.com/wp-content/uploads/2021/01/logo-placeholder-png-2.png" alt="BAS" height="80" style="margin: 0 15px;"/>
 </p>
-
-## Challenge
-Describe challenge
-
-## Objective
-The objective of this study was to
 
 ## Earth observations <!--{ as="eox-map" mode="tour" position="left" }-->
 
@@ -40,22 +34,3 @@ A unique maritime protected area offering sanctuary to vast numbers of fur seals
 ### <!--{ zoom=7 center=[163,-67] layers='[{"type":"Tile","properties":{"id":"terrain-light"},"source":{"type":"WMTSCapabilities","url":"https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml","layer":"terrain-light_3857"}}]' animationOptions='{"duration":500}' }-->
 #### Balleny Islands
 A remote volcanic chain providing critical habitat for seabirds and marine mammals.
-
-## Data and Methods
-#### Dataset
-- **Source**: 
-- **Temporal coverage**: 
-
-#### Methodology workflow
-Description
-
-## Results
-
-
-## Conclusions
-
-
-## Open Science <!--{ as="div" component="div" }-->
-
-## Contributors
-Authors, contibutors, reviewers
