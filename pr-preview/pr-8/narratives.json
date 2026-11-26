@@ -1,17 +1,7 @@
 [
   {
-    "cover-image": "https://placehold.co/600x400/png",
-    "date": "2025-01-01",
-    "theme": [
-      "theme_name"
-    ],
-    "tags": [
-      "some",
-      "tags"
-    ],
-    "official": false,
     "title": "Title of the story",
-    "image": "assets/previews/png_09afe340-f8e8-4f5c-b880-86d229e7742d_preview.png",
+    "image": "assets/previews/png_afc8d019-39a0-4841-bec7-dcf14cf16aac_preview.png",
     "provider": "community",
     "file": "https://ESA-EarthCODE.github.io/earthcode-narratives/pr-preview/pr-8/antarctic-wildlife-protected-areas.md"
   }
